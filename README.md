@@ -19,8 +19,7 @@ The user must upload an image (for the Fourier transform) or the positional data
 ### Fast Fourier Transform (2D-FFT)
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/adrena-lab/CORDERLY/master/Figures/MATLAB/H_FFT_1.png
-" width="500">
+    <img src="https://raw.githubusercontent.com/adrena-lab/CORDERLY/master/Figures/MATLAB/H_FFT_1.png" width="500">
 </p>
 
 <p align="center">
@@ -28,8 +27,7 @@ The user must upload an image (for the Fourier transform) or the positional data
 </p>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/adrena-lab/CORDERLY/master/Figures/MATLAB/H_FFT_colormap.png
-" width="500">
+    <img src="https://raw.githubusercontent.com/adrena-lab/CORDERLY/master/Figures/MATLAB/H_FFT_colormap.png" width="500">
 </p>
 
 ### Radial Distribution Function (RDF)
