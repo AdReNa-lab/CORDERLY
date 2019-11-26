@@ -5,33 +5,57 @@ The CORDERLY software is offered as a MATLAB GUI and a stand alone software for 
 
 ## Installation Instructions
 
-
-....
+To install CORDERLY, select the appropriate release, i.e. the MATLAB GUI, or the stand alone software for Windows or Mac.
 
 ## Using CORDERLY
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/adrena-lab/CORDERLY/master/Figures/MATLAB/H_COG_1.png" width="500">
+    <img src="https://raw.githubusercontent.com/adrena-lab/CORDERLY/master/Figures/Windows %26 Mac Software/H_COG_1.png" width="500">
 </p>
 
 The user must upload an image (for the Fourier transform) or the positional data (for the radial distribution function, spatial distribution function and angular distribution) as a .txt, .mat, or excel file.  CORDERLY then produces the appropriate image or plot based on the user inputs.  Further instructions are provided below and in the Help section of the software.  
 
+To obain the positional data:
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/adrena-lab/CORDERLY/master/Figures/Windows %26 Mac Software/H_Data_1.png" width="400">
+</p>
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/adrena-lab/CORDERLY/master/Figures/Windows %26 Mac Software/H_Data_2.png" width="400">
+</p>
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/adrena-lab/CORDERLY/master/Figures/Windows %26 Mac Software/H_Data_3.png" width="400">
+</p>
+
 ### Fast Fourier Transform (2D-FFT)
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/adrena-lab/CORDERLY/master/Figures/MATLAB/H_FFT_1.png" width="500">
+    <img src="https://raw.githubusercontent.com/adrena-lab/CORDERLY/master/Figures/Windows %26 Mac Software/H_FFT_1.png" width="400">
 </p>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/adrena-lab/CORDERLY/master/Figures/MATLAB/H_FFT_2.png" width="500">
+    <img src="https://raw.githubusercontent.com/adrena-lab/CORDERLY/master/Figures/Windows %26 Mac Software/H_FFT_2.png" width="400">
 </p>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/adrena-lab/CORDERLY/master/Figures/MATLAB/H_FFT_colormap.png" width="500">
+    <img src="https://raw.githubusercontent.com/adrena-lab/CORDERLY/master/Figures/Windows %26 Mac Software/H_FFT_colormap.png" width="400">
 </p>
 
 ### Radial Distribution Function (RDF)
 
+<p align="center">
+    <img src="https://raw.githubusercontent.com/adrena-lab/CORDERLY/master/Figures/Windows %26 Mac Software/H_FFT_1.png" width="500">
+</p>
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/adrena-lab/CORDERLY/master/Figures/Windows %26 Mac Software/H_FFT_2.png" width="500">
+</p>
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/adrena-lab/CORDERLY/master/Figures/Windows %26 Mac Software/H_FFT_colormap.png" width="500">
+</p>
 
 ### Spatial Distribution Function (SDF)
 
