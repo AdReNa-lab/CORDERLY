@@ -46,19 +46,50 @@ To obain the positional data:
 ### Radial Distribution Function (RDF)
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/adrena-lab/CORDERLY/master/Figures/Windows %26 Mac Software/H_FFT_1.png" width="500">
+    <img src="https://raw.githubusercontent.com/adrena-lab/CORDERLY/master/Figures/Windows %26 Mac Software/H_RDF_1.png" width="400">
 </p>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/adrena-lab/CORDERLY/master/Figures/Windows %26 Mac Software/H_FFT_2.png" width="500">
+    <img src="https://raw.githubusercontent.com/adrena-lab/CORDERLY/master/Figures/Windows %26 Mac Software/H_RDF_2.png" width="400">
 </p>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/adrena-lab/CORDERLY/master/Figures/Windows %26 Mac Software/H_FFT_colormap.png" width="500">
+    <img src="https://raw.githubusercontent.com/adrena-lab/CORDERLY/master/Figures/Windows %26 Mac Software/H_RDF_3.png" width="400">
+</p>
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/adrena-lab/CORDERLY/master/Figures/Windows %26 Mac Software/H_RDF_4.png" width="400">
+</p>
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/adrena-lab/CORDERLY/master/Figures/Windows %26 Mac Software/H_RDF_5.png" width="400">
 </p>
 
 ### Spatial Distribution Function (SDF)
 
+<p align="center">
+    <img src="https://raw.githubusercontent.com/adrena-lab/CORDERLY/master/Figures/Windows %26 Mac Software/H_SDF_1.png" width="400">
+</p>
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/adrena-lab/CORDERLY/master/Figures/Windows %26 Mac Software/H_SDF_2.png" width="400">
+</p>
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/adrena-lab/CORDERLY/master/Figures/Windows %26 Mac Software/H_SDF_3.png" width="400">
+</p>
 
 ### Angular Distribution 
 
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/adrena-lab/CORDERLY/master/Figures/Windows %26 Mac Software/H_AD_1.png" width="400">
+</p>
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/adrena-lab/CORDERLY/master/Figures/Windows %26 Mac Software/H_AD_2.png" width="400">
+</p>
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/adrena-lab/CORDERLY/master/Figures/Windows %26 Mac Software/H_AD_3.png" width="400">
+</p>
