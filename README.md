@@ -10,7 +10,7 @@ The CORDERLY software is offered as a MATLAB GUI and a stand alone software for 
 
 ## How to Use CORDERLY
 
-![](https://raw.githubusercontent.com/adrena-lab/CORDERLY/master/Figures/MATLAB/H_COG_1.png)
+![](https://raw.githubusercontent.com/adrena-lab/CORDERLY/master/Figures/MATLAB/H_COG_1.png =250x)
 
 ### Fast Fourier Transform (2D-FFT)
 
