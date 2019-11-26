@@ -11,7 +11,7 @@ The CORDERLY software is offered as a MATLAB GUI and a stand alone software for 
 ## Using CORDERLY
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/adrena-lab/CORDERLY/master/Figures/MATLAB/H_COG_1.png" width="300">
+    <img src="https://raw.githubusercontent.com/adrena-lab/CORDERLY/master/Figures/MATLAB/H_COG_1.png" width="500">
 </p>
 
 The user must upload an image (for the Fourier transform) or the positional data (for the radial distribution function, spatial distribution function and angular distribution) as a .txt, .mat, or excel file.  CORDERLY then produces the appropriate image or plot based on the user inputs.  Further instructions are provided below and in the Help section of the software.  
