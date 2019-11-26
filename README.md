@@ -10,9 +10,10 @@ The CORDERLY software is offered as a MATLAB GUI and a stand alone software for 
 
 ## How to Use CORDERLY
 
+![](https://raw.githubusercontent.com/adrena-lab/CORDERLY/master/Figures/MATLAB/H_COG_1.png)
+
 ### Fast Fourier Transform (2D-FFT)
 
-![](https://raw.githubusercontent.com/adrena-lab/Optimising-Light-Source-Positioning/Code/Figures/Figure1-1.png)
 
 ### Radial Distribution Function (RDF)
 
