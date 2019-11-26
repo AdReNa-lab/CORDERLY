@@ -12,6 +12,7 @@ This is the MATLAB code and GUI for the CORDERLY software.  This software analys
 
 ### Fast Fourier Transform (2D-FFT)
 
+![](https://raw.githubusercontent.com/adrena-lab/Optimising-Light-Source-Positioning/Code/Figures/Figure1-1.png)
 
 ### Radial Distribution Function (RDF)
 
