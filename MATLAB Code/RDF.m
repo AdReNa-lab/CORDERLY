@@ -49,7 +49,8 @@ if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgr
 end
 
 function Select_Data_Callback(hObject, ~, handles)
-str = handles.Variable_Name;
+str = get(handles.VarName, 'String');
+handles.Variable = str;
 handles.Data = evalin('base', str);
 set(handles.Update,'Enable','on')
 set(handles.popupmenu1,'Value', 1);
